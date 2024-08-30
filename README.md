@@ -1,5 +1,5 @@
 <center>
-<img src="https://github.com/Yeimmy-ux/Proyecto_final/blob/master/20200202_140258_0000.png" style="width: 100% ; aspect-ratio:16/9">
+<img src="https://github.com/Yeimmy-ux/Proyecto_final/blob/master/logo.png" style="width: 100% ; aspect-ratio:16/9">
 </center>
 
 
