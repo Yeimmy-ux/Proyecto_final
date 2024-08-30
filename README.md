@@ -86,7 +86,7 @@ Esta base de datos permite gestionar eficientemente el proceso de pedidos y cont
 El diagrama fue desarrollado en excalidraw
 
 <center>
-<img src="https://github.com/Yeimmy-ux/Proyecto_final/blob/master/Captura%20de%20pantalla%202024-07-02%20063315.png" style="width: 100% ; aspect-ratio:16/9">
+<img src="https://github.com/Yeimmy-ux/Proyecto_final/blob/master/DER%20Excalidraw.png" style="width: 100% ; aspect-ratio:16/9">
 </center>
 <center>
 <img src=(https://github.com/Yeimmy-ux/Proyecto_Dietetica_Labrador/assets/174386228/5fc5610e-a781-41b3-903c-a51714081e23) style="width: 100% ; aspect-ratio:16/9">
