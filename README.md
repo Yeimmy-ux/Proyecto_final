@@ -380,7 +380,7 @@ Usuario: role_finanzas, contraseña: 12ab.
 
 ## Back up de la base de datos
 
-Descripción: Se realiza un backup de la base de datos a través de MySQL Workbench. Se adjunta en el repositorio dentro de la carpeta 'backuo' el archivo con el script completo que incluye tanto la estructura como la data de la BD.
+Descripción: Se realiza un backup de la base de datos a través de MySQL Workbench. Se adjunta en el repositorio dentro de la carpeta 'backups' el archivo con el script completo que incluye tanto la estructura como la data de la BD.
 
 
 ## Herramientas y tecnologias usadas
