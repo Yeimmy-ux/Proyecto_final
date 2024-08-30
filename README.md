@@ -11,7 +11,7 @@
 
 @Tutor: Ariel Annone
 
-@Docente: Anderson M. Ocaña
+@Docente: Anderson M. Torres
 
 ---
 
