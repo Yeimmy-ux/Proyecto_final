@@ -5,11 +5,11 @@ CREATE ROLE role_admin;
 CREATE ROLE role_finanzas;
 
 -- ASIGNACIÓN DE PRIVILEGIOS AL ROL admin
-GRANT SELECT ON cliente TO role_admin;
-GRANT SELECT ON categoria_producto TO role_admin;
-GRANT SELECT ON pedido TO role_admin;
-GRANT SELECT ON producto TO role_admin;
-GRANT SELECT ON metodo_de_pago TO role_admin;
+GRANT SELECT, INSERT, UPDATE, DELETE ON cliente TO role_admin;
+GRANT SELECT, INSERT, UPDATE, DELETE ON categoria_producto TO role_admin;
+GRANT SELECT, INSERT, UPDATE, DELETE ON pedido TO role_admin;
+GRANT SELECT, INSERT, UPDATE, DELETE ON producto TO role_admin;
+GRANT SELECT, INSERT, UPDATE, DELETE ON metodo_de_pago TO role_admin;
 
 -- ASIGNACIÓN DE PRIVILEGIOS AL ROL finanzas
 GRANT ALL PRIVILEGES ON factura TO role_finanzas;
