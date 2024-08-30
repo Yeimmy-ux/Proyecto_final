@@ -385,6 +385,9 @@ Descripción: Se realiza un backup de la base de datos a través de MySQL Workbe
 
 ## Herramientas y tecnologias usadas
 
+MySQL Workbench
+Datos ficticios Chat GPT
+
 ## Como levantar el proyecto en CodeSpaces GitHub
 * env: Archivo con contraseñas y data secretas
 * Makefile: Abstracción de creacción del proyecto
